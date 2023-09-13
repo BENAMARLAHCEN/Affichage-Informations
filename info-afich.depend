@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694624596 source:c:\users\youcode\desktop\c project\info-afich\main.c
+	<stdio.h>
+	<stdlib.h>
+
